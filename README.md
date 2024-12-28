@@ -1,0 +1,1 @@
+# fingerprintapp-privacy-policy
