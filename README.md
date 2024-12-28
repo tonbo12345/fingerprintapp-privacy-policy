@@ -32,4 +32,4 @@ We implement security measures to protect your information:
 We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
 ## Contact Us
-If you have any questions about this privacy policy, please contact us at: [Your Contact Email]
+If you have any questions about this privacy policy, please contact us at: [tkbdev06@gmail.com]
